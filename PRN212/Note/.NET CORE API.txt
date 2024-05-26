@@ -1,0 +1,44 @@
+.NET CORE API
+NHẮC LẠI VỀ .NET FRAMEWORK
+- 1 nền tang platform (được build bởi thằng Microsoft) để thực thi ứng dụng
+- Một C# Program gồm một hay nhiều file .cs chứa định nghĩa lớp và kiểu dữ lieu
+- Những file này sẽ được trình biên dịch C# (csc) biên dịch thành mã thực thi
+- Dc build trên ngôn ngữ C#
+- Dc build trên những file cs, đc biên dịch sang những file exe, dld gọi là file assembly, mã trung gian MSIL.
+- Sau đó đc đưa sang JIT compiler, biên dịch mã này biến thành .NET ứng dụng hoặc .NET framework library.
+
+.Net core có nền tàng mã dịch trung gian và thực thi ứng dung (tương tự .NET Framework)
+.Net core cũng build các file có đuôi cs sang các mã trung gian
+Sau đó đưa qua 1 môi trường biên dịch
+
+Khác
+Môi trường biên dịch của .NET Framework CLR 
+.NET core có môi trường CoreCLR, chạy đc trên nhiều hđh
+- Trình biên dịch trung gian (JIT compiler) của .NET core có thể dịch mã IL sang mã máy của 3 nền tang nó hỗ trợ
+JIT compiler của NET.core có thể dịch mã IL sang mã máy của 3 nền tảng (Linus, MacOS, Window)
+
+.NET Core Class Library
+- Tương tự như .NET Framework, .NET Core cũng cung cấp hệ thống class cho các ngôn ngữ nó hỗ trợ (hiện nay có C# , VB.NET, và F#), tuy nhiên, hệ thống thư viện của .NET Core và .NET Framework là hoàn toàn độc lập nhau.
+
+.NET Core có thể sử dung thư viện của .net framework đc ko?
+- Có, vì hệ thống thư viện của chúng là các file chưa mã trung gian IL cho nên về lý thuyết chúng có thể sử dung thư viện của nhau.
+
+- Tuy nhiên, việc tham chiếu này cũng có giới hạn. Thư viện xây dung trên. NET Framework sẽ không chạy được rên .NET Core nếu nó phụ thuộc vào những API không được .NET Core hỗ trợ
+
+- Người dùng đưa ra yêu cầu cho API, API gửi yêu cầu cho application cụ thể là server, server xử lí data dữ lieu, trả response cho api, api đưa response lại cho waiter.
+
+- API (Application Programming Interface): giao diện thực hiện chương trình cua ứng dung, cho phép các ứng dung khác nhau có thể giao tiếp được với nhau trao đổi qua lại với nhau
+
+- Dữ liệu ở đây dạng JSON, XML. 
+
+- HTTP, HTTPS going nhau, chủ yếu
++ HTTPS bảo mật hơn HTTP
+
+- GET / POST chủ yếu, put, delete dữ liệu nhiều hơn.
+
+- Với web API, chúng ta sẽ tự động hóa quản lý công việc, cập nhật luồng công việc, giúp tăng năng suất và tạo hiệu quả công việc cao hơn.
+
+- API cho phép lấy nội dung từ bất kỳ website hoặc ứng dung nếu ược ho phép, tăng trải nghiệm người dung. API hoạt động như 1 chiếc cổng, cho phép các công ty chia sẻ thông tin được chọn nhưng vẫn tránh được những yêu cầu kĩ thuật không mong muốn.
+
+
+

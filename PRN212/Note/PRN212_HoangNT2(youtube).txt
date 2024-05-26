@@ -1,0 +1,124 @@
+RECALL BEFORE TẾT - ÔN TẬP TRƯỚC TẾT
+1. OBJECT - CLASS
+- Class là cái Khuôn -> dung để tạo ra những object từ Khuôn
+- Class là mô tả chung về các object: có bên trong đặc tính (field, backing field, property) và hành vi (method, function)
+- Class có nhiều loại khác nhau
+-> Chú ý đến 1 loại class mà object từ nó tương lai sẽ đẩy xuống Database
+															Design
+OOP WORLD / DOMAIN / ENV	<--------------------------> MAP ÁNH XẠ DATABASE DOMAIN table STUDENT       	<--------------->  ERD
+class Student										table STUDENT (DBMS) 	Entity Relationship Diagram	
+{
+   public string Id {get ; set;}							|  Id  | Name  | Email	|
+   public string Name {get; set;}
+   public string Email {get; set;}
+   ...
+}
+Những class sẽ map xuống DB -> Đặt nó ở thư mục / Folder Entity/Entities trong dự án
+
+object:					a row / record / tuple	
+Student s = new Student(...){...}   -> insert into Student values(...)
+Programming					Sql
+
+2. Quản lí nhiều object -> Cần những đối tượng nào đó có thể chứa được nhiều object khác, đối tượng chứa nhiều đối tượng khác -> Cái túi, cái tủ, cái hộp  cái container xuất hiện
+-> Class cabinet class box class bag
+{
+  Chứa nhiều đối tượng khác cần đựng bên trong cái hộp
+  Student s1;
+  Student s2;
+  Student s3;
+  Student s4, s5, s6, s7, s8, s9, s10,...
+  // Khai báo lẻ, dễ làm ,dễ hiểu, ko thuận lợi cho số đông sinh viên
+  // Mảng là kĩ thuật thay thế ưu việt hơn, tốt hơn khai báo lẻ
+  Student[] arr = new Student[300]; // fixed size
+  count số đếm số phần tử đang có, chèn vào vị trí thứ [count]
+
+  // DÙNG COLLECTIONS, NHÓM CÁC CLASS THAY THẾ CHO MẢNG, CŨNG CHỨA BÊN TRONG
+  // NHIỀU MÓN ĐỒ NHƯ MẢNG, NHƯNG CO GIÃN KÍCH THƯỚC - TÚI DORAEMIN
+  // KO XÀI PHÍ RAM, CẦN ĐẾN ĐÂU CẤP ĐẾN ĐÓ, KO DÙNG THÌ THU HỒI
+
+  
+  // quản lí là thao tác, là CRUD: Create, Retrieve/Read, Update, Delete
+  void Add() 
+  {
+     arr[count++] = ??? ai đó, object nào đó
+  }
+
+3. 
+  void PrintAll()
+  {
+     for trên arr để in info từng [i]
+  }
+}
+>>>>>>>>>>>>>>
+Tủ chứa hồ sơ gv, tủ chứa phone, tờ giấy chứa món ăn / food / drink
+chuồng có nhiều pet, dog, thú,...
+-> Nhiều object (Object loại khác), vẫn có crud căn bản
+-> Bao nhiêu loại info cần quản lí, bấy nhiêu loại cabinet tương ứng!!!
+-> Có 1 cách hay hơn: One size fit all
+		      1 hộp đa năng đc ko???
+		      Class Cabinet
+		      {
+			Student[]
+		      }
+      		      
+		      Class Cabinet
+		      {
+			Lecturer[]
+		      }
+
+		      Class Cabinet
+		      {
+			Food[]
+		        CRUD
+		      }
+
+		       Class Cabinet
+		      {
+			Phone[]
+			CRUD
+		      }
+class Cabinet<T> // Type
+{
+  T[]
+  CRUD(T t)
+}
+GENERIC, CLASS CHƠI VỚI NHIỀU LOẠI CLASS KHÁC, CLASS TRUYỀN VÀO NHƯ THAM SỐ
+DATA TYPE IS PASSED AS A PARAMETER
+void F(int x) -> F(5) -> a value is
+Cabinet <Student> tu =
+Cabinet <Lecturer> tuKhac =
+// Java: ArrayList<Student> tu =
+
+3. DỰ ÁN "LỚN", APP LỚN
+- 1 APP CẦN LÀM CHO KHÁCH HÀNG, CHÍNH LÀ CÂU TRẢ LỜI 9DE63 GIÁI UEYT61 VẤN ĐỀ K/H ĐẶT RA
+- KHÁCH HÀNG CÓ NHIỀU VẤN ĐỀ ĐỂ QUẢN LÍ CHUỖI NHÀ HÀNG / KHÁCH HÀNG CỦA HỌ
+  -> 1 CÁI APP ĐỂ FIX CÁC VẤN ĐỀ, GIẢI QUYẾT TOÀN DIỆN VIỆC LÀM ĂN CỦA CHUỖI K/S N/H -> 1 SOLUTION
+- 1 SOLUTION ---------------------------------> 1 APP --------> END USER
+CHIA ĐỂ TRỊ CÁC CÔNG VIỆC CODING
+THÀNH CÁC ĐƠN VỊ NHỎ HƠN - PROJECT DỄ DÀNG QUẢN LÍ, PHÂN CHIA CÔNG VIỆC,...
+PROJECT 1 - UI - FE TƯƠNG TÁC USER
+            CONSOLE APP (CUI) .EXE .DLL			MAIN() ĐỂ CHẠY
+ 	    WINDOWS FROM (GUI) .EXE .DLL -> PE
+	    WEB PAGES  .DLL URL
+
+PROJECT 2 - CHƠI VỚI DATABASE  
+	    ENTITIES / CLAS ĐI KÈM SẼ MAP VỚI TABLE     KO CÓ MAIN()
+	    CLASS LIBRARY PROJECT -> .DLL THƯ VIỆN
+  	    * REPOSITORY / REPOSITORIES
+	      ENTITIES
+
+PROJECT 3 - CLASS LIBRARY PROJECT -> .DLL THƯ VIỆN KO CÓ MAIN()
+	    XỬ LÍ ĐÁM DATA LẤY TỪ REPO, ĐƯA VÀO RAM TÍNH TOÁN
+	    * SERVICES PROJECT
+		CABINET/BOX/BAG -> GENERIC
+		> MẢNG CÁC OBJECT MAP TỪ DATABASE ĐỂ DÙNG, TÍNH TOÁN
+ 	    -> TÍNH TOÁN XONG ĐẨY CHO UI Ở PROJECT 1 ĐỂ RENDER
+
+
+PROJECT 4 - CÁC LIBRARY KHÁC NẾU CẦN
+
+KIẾN TRÚC 3 LỚP - 3-LAYER ARCHITECTURE
+
+ĐỪNG QUÊN: P1 CẦN / REFERS TO / ADD DEPENDENCY    ->    P3
+           P3 CẦN 				  ->    P2 (DB)
+ĐỪNG QUÊN COPY LOCAL TICK VÔ

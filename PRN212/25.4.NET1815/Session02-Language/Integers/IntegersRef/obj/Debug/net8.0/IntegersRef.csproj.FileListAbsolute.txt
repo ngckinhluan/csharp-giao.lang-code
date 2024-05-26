@@ -1,0 +1,14 @@
+D:\FPT CS\PRN212\25.4.NET1815\Session02-Language\Integers\IntegersRef\bin\Debug\net8.0\IntegersRef.exe
+D:\FPT CS\PRN212\25.4.NET1815\Session02-Language\Integers\IntegersRef\bin\Debug\net8.0\IntegersRef.deps.json
+D:\FPT CS\PRN212\25.4.NET1815\Session02-Language\Integers\IntegersRef\bin\Debug\net8.0\IntegersRef.runtimeconfig.json
+D:\FPT CS\PRN212\25.4.NET1815\Session02-Language\Integers\IntegersRef\bin\Debug\net8.0\IntegersRef.dll
+D:\FPT CS\PRN212\25.4.NET1815\Session02-Language\Integers\IntegersRef\bin\Debug\net8.0\IntegersRef.pdb
+D:\FPT CS\PRN212\25.4.NET1815\Session02-Language\Integers\IntegersRef\obj\Debug\net8.0\IntegersRef.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT CS\PRN212\25.4.NET1815\Session02-Language\Integers\IntegersRef\obj\Debug\net8.0\IntegersRef.AssemblyInfoInputs.cache
+D:\FPT CS\PRN212\25.4.NET1815\Session02-Language\Integers\IntegersRef\obj\Debug\net8.0\IntegersRef.AssemblyInfo.cs
+D:\FPT CS\PRN212\25.4.NET1815\Session02-Language\Integers\IntegersRef\obj\Debug\net8.0\IntegersRef.csproj.CoreCompileInputs.cache
+D:\FPT CS\PRN212\25.4.NET1815\Session02-Language\Integers\IntegersRef\obj\Debug\net8.0\IntegersRef.dll
+D:\FPT CS\PRN212\25.4.NET1815\Session02-Language\Integers\IntegersRef\obj\Debug\net8.0\refint\IntegersRef.dll
+D:\FPT CS\PRN212\25.4.NET1815\Session02-Language\Integers\IntegersRef\obj\Debug\net8.0\IntegersRef.pdb
+D:\FPT CS\PRN212\25.4.NET1815\Session02-Language\Integers\IntegersRef\obj\Debug\net8.0\IntegersRef.genruntimeconfig.cache
+D:\FPT CS\PRN212\25.4.NET1815\Session02-Language\Integers\IntegersRef\obj\Debug\net8.0\ref\IntegersRef.dll

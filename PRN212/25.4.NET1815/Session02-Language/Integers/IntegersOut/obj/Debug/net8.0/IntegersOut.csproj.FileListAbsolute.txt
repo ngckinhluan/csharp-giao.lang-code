@@ -1,0 +1,14 @@
+D:\FPT CS\PRN212\25.4.NET1815\Session02-Language\Integers\IntegersOut\bin\Debug\net8.0\IntegersOut.exe
+D:\FPT CS\PRN212\25.4.NET1815\Session02-Language\Integers\IntegersOut\bin\Debug\net8.0\IntegersOut.deps.json
+D:\FPT CS\PRN212\25.4.NET1815\Session02-Language\Integers\IntegersOut\bin\Debug\net8.0\IntegersOut.runtimeconfig.json
+D:\FPT CS\PRN212\25.4.NET1815\Session02-Language\Integers\IntegersOut\bin\Debug\net8.0\IntegersOut.dll
+D:\FPT CS\PRN212\25.4.NET1815\Session02-Language\Integers\IntegersOut\bin\Debug\net8.0\IntegersOut.pdb
+D:\FPT CS\PRN212\25.4.NET1815\Session02-Language\Integers\IntegersOut\obj\Debug\net8.0\IntegersOut.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT CS\PRN212\25.4.NET1815\Session02-Language\Integers\IntegersOut\obj\Debug\net8.0\IntegersOut.AssemblyInfoInputs.cache
+D:\FPT CS\PRN212\25.4.NET1815\Session02-Language\Integers\IntegersOut\obj\Debug\net8.0\IntegersOut.AssemblyInfo.cs
+D:\FPT CS\PRN212\25.4.NET1815\Session02-Language\Integers\IntegersOut\obj\Debug\net8.0\IntegersOut.csproj.CoreCompileInputs.cache
+D:\FPT CS\PRN212\25.4.NET1815\Session02-Language\Integers\IntegersOut\obj\Debug\net8.0\IntegersOut.dll
+D:\FPT CS\PRN212\25.4.NET1815\Session02-Language\Integers\IntegersOut\obj\Debug\net8.0\refint\IntegersOut.dll
+D:\FPT CS\PRN212\25.4.NET1815\Session02-Language\Integers\IntegersOut\obj\Debug\net8.0\IntegersOut.pdb
+D:\FPT CS\PRN212\25.4.NET1815\Session02-Language\Integers\IntegersOut\obj\Debug\net8.0\IntegersOut.genruntimeconfig.cache
+D:\FPT CS\PRN212\25.4.NET1815\Session02-Language\Integers\IntegersOut\obj\Debug\net8.0\ref\IntegersOut.dll

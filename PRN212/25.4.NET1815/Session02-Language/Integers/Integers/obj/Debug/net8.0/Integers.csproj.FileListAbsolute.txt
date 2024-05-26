@@ -1,0 +1,14 @@
+D:\FPT CS\PRN212\25.4.NET1815\Session02-Language\Integers\Integers\bin\Debug\net8.0\Integers.exe
+D:\FPT CS\PRN212\25.4.NET1815\Session02-Language\Integers\Integers\bin\Debug\net8.0\Integers.deps.json
+D:\FPT CS\PRN212\25.4.NET1815\Session02-Language\Integers\Integers\bin\Debug\net8.0\Integers.runtimeconfig.json
+D:\FPT CS\PRN212\25.4.NET1815\Session02-Language\Integers\Integers\bin\Debug\net8.0\Integers.dll
+D:\FPT CS\PRN212\25.4.NET1815\Session02-Language\Integers\Integers\bin\Debug\net8.0\Integers.pdb
+D:\FPT CS\PRN212\25.4.NET1815\Session02-Language\Integers\Integers\obj\Debug\net8.0\Integers.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT CS\PRN212\25.4.NET1815\Session02-Language\Integers\Integers\obj\Debug\net8.0\Integers.AssemblyInfoInputs.cache
+D:\FPT CS\PRN212\25.4.NET1815\Session02-Language\Integers\Integers\obj\Debug\net8.0\Integers.AssemblyInfo.cs
+D:\FPT CS\PRN212\25.4.NET1815\Session02-Language\Integers\Integers\obj\Debug\net8.0\Integers.csproj.CoreCompileInputs.cache
+D:\FPT CS\PRN212\25.4.NET1815\Session02-Language\Integers\Integers\obj\Debug\net8.0\Integers.dll
+D:\FPT CS\PRN212\25.4.NET1815\Session02-Language\Integers\Integers\obj\Debug\net8.0\refint\Integers.dll
+D:\FPT CS\PRN212\25.4.NET1815\Session02-Language\Integers\Integers\obj\Debug\net8.0\Integers.pdb
+D:\FPT CS\PRN212\25.4.NET1815\Session02-Language\Integers\Integers\obj\Debug\net8.0\Integers.genruntimeconfig.cache
+D:\FPT CS\PRN212\25.4.NET1815\Session02-Language\Integers\Integers\obj\Debug\net8.0\ref\Integers.dll
