@@ -1,0 +1,15 @@
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInUse\PassByFunc\bin\Debug\net9.0\PassByFunc.exe
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInUse\PassByFunc\bin\Debug\net9.0\PassByFunc.deps.json
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInUse\PassByFunc\bin\Debug\net9.0\PassByFunc.runtimeconfig.json
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInUse\PassByFunc\bin\Debug\net9.0\PassByFunc.dll
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInUse\PassByFunc\bin\Debug\net9.0\PassByFunc.pdb
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInUse\PassByFunc\obj\Debug\net9.0\PassByFunc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInUse\PassByFunc\obj\Debug\net9.0\PassByFunc.AssemblyInfoInputs.cache
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInUse\PassByFunc\obj\Debug\net9.0\PassByFunc.AssemblyInfo.cs
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInUse\PassByFunc\obj\Debug\net9.0\PassByFunc.csproj.CoreCompileInputs.cache
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInUse\PassByFunc\obj\Debug\net9.0\PassByFunc.sourcelink.json
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInUse\PassByFunc\obj\Debug\net9.0\PassByFunc.dll
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInUse\PassByFunc\obj\Debug\net9.0\refint\PassByFunc.dll
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInUse\PassByFunc\obj\Debug\net9.0\PassByFunc.pdb
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInUse\PassByFunc\obj\Debug\net9.0\PassByFunc.genruntimeconfig.cache
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInUse\PassByFunc\obj\Debug\net9.0\ref\PassByFunc.dll

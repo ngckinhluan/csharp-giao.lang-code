@@ -1,0 +1,15 @@
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\BuiltInDelegates\FuncDelegate\bin\Debug\net8.0\FuncDelegate.exe
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\BuiltInDelegates\FuncDelegate\bin\Debug\net8.0\FuncDelegate.deps.json
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\BuiltInDelegates\FuncDelegate\bin\Debug\net8.0\FuncDelegate.runtimeconfig.json
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\BuiltInDelegates\FuncDelegate\bin\Debug\net8.0\FuncDelegate.dll
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\BuiltInDelegates\FuncDelegate\bin\Debug\net8.0\FuncDelegate.pdb
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\BuiltInDelegates\FuncDelegate\obj\Debug\net8.0\FuncDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\BuiltInDelegates\FuncDelegate\obj\Debug\net8.0\FuncDelegate.AssemblyInfoInputs.cache
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\BuiltInDelegates\FuncDelegate\obj\Debug\net8.0\FuncDelegate.AssemblyInfo.cs
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\BuiltInDelegates\FuncDelegate\obj\Debug\net8.0\FuncDelegate.csproj.CoreCompileInputs.cache
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\BuiltInDelegates\FuncDelegate\obj\Debug\net8.0\FuncDelegate.sourcelink.json
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\BuiltInDelegates\FuncDelegate\obj\Debug\net8.0\FuncDelegate.dll
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\BuiltInDelegates\FuncDelegate\obj\Debug\net8.0\refint\FuncDelegate.dll
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\BuiltInDelegates\FuncDelegate\obj\Debug\net8.0\FuncDelegate.pdb
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\BuiltInDelegates\FuncDelegate\obj\Debug\net8.0\FuncDelegate.genruntimeconfig.cache
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\BuiltInDelegates\FuncDelegate\obj\Debug\net8.0\ref\FuncDelegate.dll

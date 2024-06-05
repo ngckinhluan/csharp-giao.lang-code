@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PassByDelegateV1", "PassByDelegateV1\PassByDelegateV1.csproj", "{FE523214-FBFA-4CC6-9351-1E8DBCBC513D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PassByDelegateV2", "PassByDelegateV2\PassByDelegateV2.csproj", "{A9626FF4-7018-430E-8FB3-2096F6B2806C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PassByDelegateV3", "PassByDelegateV3\PassByDelegateV3.csproj", "{80BE84CE-FF8D-4FC9-9FFA-D8E091E6E232}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PassByAction", "PassByAction\PassByAction.csproj", "{0B513C82-6B59-441B-A9D9-420989C5105D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PassByActionGenericV1", "PassByActionGenericV1\PassByActionGenericV1.csproj", "{53184E9E-73AD-4FE6-9483-AEC62BA37825}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Numerology", "Numerology\Numerology.csproj", "{3889061C-CFE3-4BEB-B3EF-D60CBA422698}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassByFunc", "PassByFunc\PassByFunc.csproj", "{6F4372E9-7BF6-417C-BB60-B6D48F0D6919}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE523214-FBFA-4CC6-9351-1E8DBCBC513D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE523214-FBFA-4CC6-9351-1E8DBCBC513D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE523214-FBFA-4CC6-9351-1E8DBCBC513D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE523214-FBFA-4CC6-9351-1E8DBCBC513D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9626FF4-7018-430E-8FB3-2096F6B2806C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9626FF4-7018-430E-8FB3-2096F6B2806C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9626FF4-7018-430E-8FB3-2096F6B2806C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9626FF4-7018-430E-8FB3-2096F6B2806C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80BE84CE-FF8D-4FC9-9FFA-D8E091E6E232}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80BE84CE-FF8D-4FC9-9FFA-D8E091E6E232}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80BE84CE-FF8D-4FC9-9FFA-D8E091E6E232}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80BE84CE-FF8D-4FC9-9FFA-D8E091E6E232}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B513C82-6B59-441B-A9D9-420989C5105D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B513C82-6B59-441B-A9D9-420989C5105D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B513C82-6B59-441B-A9D9-420989C5105D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B513C82-6B59-441B-A9D9-420989C5105D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53184E9E-73AD-4FE6-9483-AEC62BA37825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53184E9E-73AD-4FE6-9483-AEC62BA37825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53184E9E-73AD-4FE6-9483-AEC62BA37825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53184E9E-73AD-4FE6-9483-AEC62BA37825}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3889061C-CFE3-4BEB-B3EF-D60CBA422698}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3889061C-CFE3-4BEB-B3EF-D60CBA422698}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3889061C-CFE3-4BEB-B3EF-D60CBA422698}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3889061C-CFE3-4BEB-B3EF-D60CBA422698}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F4372E9-7BF6-417C-BB60-B6D48F0D6919}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F4372E9-7BF6-417C-BB60-B6D48F0D6919}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F4372E9-7BF6-417C-BB60-B6D48F0D6919}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F4372E9-7BF6-417C-BB60-B6D48F0D6919}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F267B755-11E1-4C81-A218-4C437D67D6EF}
+	EndGlobalSection
+EndGlobal

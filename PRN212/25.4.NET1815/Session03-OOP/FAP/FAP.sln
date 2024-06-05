@@ -3,11 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManagerV1", "StudentManagerV1\StudentManagerV1.csproj", "{D730D8C2-C8B0-419D-9BA5-197426B4F8AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentManagerV1", "StudentManagerV1\StudentManagerV1.csproj", "{D730D8C2-C8B0-419D-9BA5-197426B4F8AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManagerV2", "StudentManagerV2\StudentManagerV2.csproj", "{A60BA05B-6719-424D-ABB4-F59AA0C865DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentManagerV2", "StudentManagerV2\StudentManagerV2.csproj", "{A60BA05B-6719-424D-ABB4-F59AA0C865DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManagerV3", "StudentManagerV3\StudentManagerV3.csproj", "{58FE8592-4274-4DBE-A34E-705343109260}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentManagerV3", "StudentManagerV3\StudentManagerV3.csproj", "{58FE8592-4274-4DBE-A34E-705343109260}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentManagerV4", "StudentManagerV4\StudentManagerV4.csproj", "{26A40EBA-78E8-4EA0-8719-01A1FA41981D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentManagerV5", "StudentManagerV5\StudentManagerV5.csproj", "{6BBB13E8-9822-4A0F-B501-2870C7BA8A01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManagerV6", "StudentManagerV6\StudentManagerV6.csproj", "{EB53E406-C963-4A41-9D58-CF7C675148BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManagerV7", "StudentManagerV7\StudentManagerV7.csproj", "{F057426B-B5CF-410D-92BE-F914A2A1BD0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManagerV8", "StudentManagerV8\StudentManagerV8.csproj", "{A5C2B9A7-83FE-46CC-894A-70F1BD8EB343}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManagerV9", "StudentManagerV9\StudentManagerV9.csproj", "{193CD7C6-EDB9-4503-B921-7D678A82C8F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +39,30 @@ Global
 		{58FE8592-4274-4DBE-A34E-705343109260}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58FE8592-4274-4DBE-A34E-705343109260}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58FE8592-4274-4DBE-A34E-705343109260}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26A40EBA-78E8-4EA0-8719-01A1FA41981D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26A40EBA-78E8-4EA0-8719-01A1FA41981D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26A40EBA-78E8-4EA0-8719-01A1FA41981D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26A40EBA-78E8-4EA0-8719-01A1FA41981D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BBB13E8-9822-4A0F-B501-2870C7BA8A01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BBB13E8-9822-4A0F-B501-2870C7BA8A01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BBB13E8-9822-4A0F-B501-2870C7BA8A01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BBB13E8-9822-4A0F-B501-2870C7BA8A01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB53E406-C963-4A41-9D58-CF7C675148BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB53E406-C963-4A41-9D58-CF7C675148BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB53E406-C963-4A41-9D58-CF7C675148BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB53E406-C963-4A41-9D58-CF7C675148BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F057426B-B5CF-410D-92BE-F914A2A1BD0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F057426B-B5CF-410D-92BE-F914A2A1BD0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F057426B-B5CF-410D-92BE-F914A2A1BD0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F057426B-B5CF-410D-92BE-F914A2A1BD0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5C2B9A7-83FE-46CC-894A-70F1BD8EB343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5C2B9A7-83FE-46CC-894A-70F1BD8EB343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5C2B9A7-83FE-46CC-894A-70F1BD8EB343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5C2B9A7-83FE-46CC-894A-70F1BD8EB343}.Release|Any CPU.Build.0 = Release|Any CPU
+		{193CD7C6-EDB9-4503-B921-7D678A82C8F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{193CD7C6-EDB9-4503-B921-7D678A82C8F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{193CD7C6-EDB9-4503-B921-7D678A82C8F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{193CD7C6-EDB9-4503-B921-7D678A82C8F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

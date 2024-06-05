@@ -1,0 +1,15 @@
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\BuiltInDelegates\ActionDelegate\bin\Debug\net8.0\ActionDelegate.exe
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\BuiltInDelegates\ActionDelegate\bin\Debug\net8.0\ActionDelegate.deps.json
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\BuiltInDelegates\ActionDelegate\bin\Debug\net8.0\ActionDelegate.runtimeconfig.json
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\BuiltInDelegates\ActionDelegate\bin\Debug\net8.0\ActionDelegate.dll
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\BuiltInDelegates\ActionDelegate\bin\Debug\net8.0\ActionDelegate.pdb
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\BuiltInDelegates\ActionDelegate\obj\Debug\net8.0\ActionDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\BuiltInDelegates\ActionDelegate\obj\Debug\net8.0\ActionDelegate.AssemblyInfoInputs.cache
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\BuiltInDelegates\ActionDelegate\obj\Debug\net8.0\ActionDelegate.AssemblyInfo.cs
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\BuiltInDelegates\ActionDelegate\obj\Debug\net8.0\ActionDelegate.csproj.CoreCompileInputs.cache
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\BuiltInDelegates\ActionDelegate\obj\Debug\net8.0\ActionDelegate.sourcelink.json
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\BuiltInDelegates\ActionDelegate\obj\Debug\net8.0\ActionDelegate.dll
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\BuiltInDelegates\ActionDelegate\obj\Debug\net8.0\refint\ActionDelegate.dll
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\BuiltInDelegates\ActionDelegate\obj\Debug\net8.0\ActionDelegate.pdb
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\BuiltInDelegates\ActionDelegate\obj\Debug\net8.0\ActionDelegate.genruntimeconfig.cache
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\BuiltInDelegates\ActionDelegate\obj\Debug\net8.0\ref\ActionDelegate.dll

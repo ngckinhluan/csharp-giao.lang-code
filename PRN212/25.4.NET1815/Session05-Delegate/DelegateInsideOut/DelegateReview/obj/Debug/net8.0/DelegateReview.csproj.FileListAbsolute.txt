@@ -1,0 +1,15 @@
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInsideOut\DelegateReview\bin\Debug\net8.0\DelegateReview.exe
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInsideOut\DelegateReview\bin\Debug\net8.0\DelegateReview.deps.json
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInsideOut\DelegateReview\bin\Debug\net8.0\DelegateReview.runtimeconfig.json
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInsideOut\DelegateReview\bin\Debug\net8.0\DelegateReview.dll
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInsideOut\DelegateReview\bin\Debug\net8.0\DelegateReview.pdb
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInsideOut\DelegateReview\obj\Debug\net8.0\DelegateReview.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInsideOut\DelegateReview\obj\Debug\net8.0\DelegateReview.AssemblyInfoInputs.cache
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInsideOut\DelegateReview\obj\Debug\net8.0\DelegateReview.AssemblyInfo.cs
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInsideOut\DelegateReview\obj\Debug\net8.0\DelegateReview.csproj.CoreCompileInputs.cache
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInsideOut\DelegateReview\obj\Debug\net8.0\DelegateReview.sourcelink.json
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInsideOut\DelegateReview\obj\Debug\net8.0\DelegateReview.dll
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInsideOut\DelegateReview\obj\Debug\net8.0\refint\DelegateReview.dll
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInsideOut\DelegateReview\obj\Debug\net8.0\DelegateReview.pdb
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInsideOut\DelegateReview\obj\Debug\net8.0\DelegateReview.genruntimeconfig.cache
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInsideOut\DelegateReview\obj\Debug\net8.0\ref\DelegateReview.dll

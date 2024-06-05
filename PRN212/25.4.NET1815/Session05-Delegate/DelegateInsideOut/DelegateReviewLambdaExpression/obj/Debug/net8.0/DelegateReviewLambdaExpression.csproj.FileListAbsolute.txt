@@ -1,0 +1,15 @@
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInsideOut\DelegateReviewLambdaExpression\bin\Debug\net8.0\DelegateReviewLambdaExpression.exe
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInsideOut\DelegateReviewLambdaExpression\bin\Debug\net8.0\DelegateReviewLambdaExpression.deps.json
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInsideOut\DelegateReviewLambdaExpression\bin\Debug\net8.0\DelegateReviewLambdaExpression.runtimeconfig.json
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInsideOut\DelegateReviewLambdaExpression\bin\Debug\net8.0\DelegateReviewLambdaExpression.dll
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInsideOut\DelegateReviewLambdaExpression\bin\Debug\net8.0\DelegateReviewLambdaExpression.pdb
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInsideOut\DelegateReviewLambdaExpression\obj\Debug\net8.0\DelegateReviewLambdaExpression.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInsideOut\DelegateReviewLambdaExpression\obj\Debug\net8.0\DelegateReviewLambdaExpression.AssemblyInfoInputs.cache
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInsideOut\DelegateReviewLambdaExpression\obj\Debug\net8.0\DelegateReviewLambdaExpression.AssemblyInfo.cs
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInsideOut\DelegateReviewLambdaExpression\obj\Debug\net8.0\DelegateReviewLambdaExpression.csproj.CoreCompileInputs.cache
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInsideOut\DelegateReviewLambdaExpression\obj\Debug\net8.0\DelegateReviewLambdaExpression.sourcelink.json
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInsideOut\DelegateReviewLambdaExpression\obj\Debug\net8.0\DelegateReviewLambdaExpression.dll
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInsideOut\DelegateReviewLambdaExpression\obj\Debug\net8.0\refint\DelegateReviewLambdaExpression.dll
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInsideOut\DelegateReviewLambdaExpression\obj\Debug\net8.0\DelegateReviewLambdaExpression.pdb
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInsideOut\DelegateReviewLambdaExpression\obj\Debug\net8.0\DelegateReviewLambdaExpression.genruntimeconfig.cache
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInsideOut\DelegateReviewLambdaExpression\obj\Debug\net8.0\ref\DelegateReviewLambdaExpression.dll

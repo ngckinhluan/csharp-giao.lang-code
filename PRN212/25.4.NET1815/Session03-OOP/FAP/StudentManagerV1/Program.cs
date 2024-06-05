@@ -50,6 +50,7 @@ namespace StudentManagerV1
             // trong thân hàm x làm gì, thì
             // do đó hàm nhận vào biến object chính là đã truyền tham chiếu luôn rồi!!! do trong hàm
             // và ngoài hàm cùng trỏ 1 vùng ram new bự chà bá.
+            
         }
     }
 }

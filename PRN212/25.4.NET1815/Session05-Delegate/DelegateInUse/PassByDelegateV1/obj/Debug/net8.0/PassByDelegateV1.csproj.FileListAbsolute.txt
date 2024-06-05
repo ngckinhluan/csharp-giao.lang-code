@@ -1,0 +1,14 @@
+C:\Users\luan.tran\source\repos\DelegateInUse\PassByDelegateV1\bin\Debug\net8.0\PassByDelegateV1.exe
+C:\Users\luan.tran\source\repos\DelegateInUse\PassByDelegateV1\bin\Debug\net8.0\PassByDelegateV1.deps.json
+C:\Users\luan.tran\source\repos\DelegateInUse\PassByDelegateV1\bin\Debug\net8.0\PassByDelegateV1.runtimeconfig.json
+C:\Users\luan.tran\source\repos\DelegateInUse\PassByDelegateV1\bin\Debug\net8.0\PassByDelegateV1.dll
+C:\Users\luan.tran\source\repos\DelegateInUse\PassByDelegateV1\bin\Debug\net8.0\PassByDelegateV1.pdb
+C:\Users\luan.tran\source\repos\DelegateInUse\PassByDelegateV1\obj\Debug\net8.0\PassByDelegateV1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luan.tran\source\repos\DelegateInUse\PassByDelegateV1\obj\Debug\net8.0\PassByDelegateV1.AssemblyInfoInputs.cache
+C:\Users\luan.tran\source\repos\DelegateInUse\PassByDelegateV1\obj\Debug\net8.0\PassByDelegateV1.AssemblyInfo.cs
+C:\Users\luan.tran\source\repos\DelegateInUse\PassByDelegateV1\obj\Debug\net8.0\PassByDelegateV1.csproj.CoreCompileInputs.cache
+C:\Users\luan.tran\source\repos\DelegateInUse\PassByDelegateV1\obj\Debug\net8.0\PassByDelegateV1.dll
+C:\Users\luan.tran\source\repos\DelegateInUse\PassByDelegateV1\obj\Debug\net8.0\refint\PassByDelegateV1.dll
+C:\Users\luan.tran\source\repos\DelegateInUse\PassByDelegateV1\obj\Debug\net8.0\PassByDelegateV1.pdb
+C:\Users\luan.tran\source\repos\DelegateInUse\PassByDelegateV1\obj\Debug\net8.0\PassByDelegateV1.genruntimeconfig.cache
+C:\Users\luan.tran\source\repos\DelegateInUse\PassByDelegateV1\obj\Debug\net8.0\ref\PassByDelegateV1.dll

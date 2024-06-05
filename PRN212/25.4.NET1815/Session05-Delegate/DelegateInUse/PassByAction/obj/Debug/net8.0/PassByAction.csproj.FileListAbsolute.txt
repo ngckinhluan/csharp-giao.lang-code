@@ -1,0 +1,14 @@
+C:\Users\luan.tran\source\repos\DelegateInUse\PassByAction\bin\Debug\net8.0\PassByAction.exe
+C:\Users\luan.tran\source\repos\DelegateInUse\PassByAction\bin\Debug\net8.0\PassByAction.deps.json
+C:\Users\luan.tran\source\repos\DelegateInUse\PassByAction\bin\Debug\net8.0\PassByAction.runtimeconfig.json
+C:\Users\luan.tran\source\repos\DelegateInUse\PassByAction\bin\Debug\net8.0\PassByAction.dll
+C:\Users\luan.tran\source\repos\DelegateInUse\PassByAction\bin\Debug\net8.0\PassByAction.pdb
+C:\Users\luan.tran\source\repos\DelegateInUse\PassByAction\obj\Debug\net8.0\PassByAction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luan.tran\source\repos\DelegateInUse\PassByAction\obj\Debug\net8.0\PassByAction.AssemblyInfoInputs.cache
+C:\Users\luan.tran\source\repos\DelegateInUse\PassByAction\obj\Debug\net8.0\PassByAction.AssemblyInfo.cs
+C:\Users\luan.tran\source\repos\DelegateInUse\PassByAction\obj\Debug\net8.0\PassByAction.csproj.CoreCompileInputs.cache
+C:\Users\luan.tran\source\repos\DelegateInUse\PassByAction\obj\Debug\net8.0\PassByAction.dll
+C:\Users\luan.tran\source\repos\DelegateInUse\PassByAction\obj\Debug\net8.0\refint\PassByAction.dll
+C:\Users\luan.tran\source\repos\DelegateInUse\PassByAction\obj\Debug\net8.0\PassByAction.pdb
+C:\Users\luan.tran\source\repos\DelegateInUse\PassByAction\obj\Debug\net8.0\PassByAction.genruntimeconfig.cache
+C:\Users\luan.tran\source\repos\DelegateInUse\PassByAction\obj\Debug\net8.0\ref\PassByAction.dll

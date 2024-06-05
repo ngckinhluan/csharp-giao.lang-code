@@ -1,0 +1,15 @@
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInUse\Numerology\bin\Debug\net8.0\Numerology.exe
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInUse\Numerology\bin\Debug\net8.0\Numerology.deps.json
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInUse\Numerology\bin\Debug\net8.0\Numerology.runtimeconfig.json
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInUse\Numerology\bin\Debug\net8.0\Numerology.dll
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInUse\Numerology\bin\Debug\net8.0\Numerology.pdb
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInUse\Numerology\obj\Debug\net8.0\Numerology.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInUse\Numerology\obj\Debug\net8.0\Numerology.AssemblyInfoInputs.cache
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInUse\Numerology\obj\Debug\net8.0\Numerology.AssemblyInfo.cs
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInUse\Numerology\obj\Debug\net8.0\Numerology.csproj.CoreCompileInputs.cache
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInUse\Numerology\obj\Debug\net8.0\Numerology.sourcelink.json
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInUse\Numerology\obj\Debug\net8.0\Numerology.dll
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInUse\Numerology\obj\Debug\net8.0\refint\Numerology.dll
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInUse\Numerology\obj\Debug\net8.0\Numerology.pdb
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInUse\Numerology\obj\Debug\net8.0\Numerology.genruntimeconfig.cache
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session05-Delegate\DelegateInUse\Numerology\obj\Debug\net8.0\ref\Numerology.dll

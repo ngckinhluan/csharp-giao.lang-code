@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\csharp-giao.lang-code\\PRN212\\25.4.NET1815\\Session04-Collections\\FAP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D43C3EE-80F9-40C3-A728-36B1E54BCB9E}|ArrayStudent\\ArrayStudent.csproj|d:\\code\\csharp-giao.lang-code\\prn212\\25.4.net1815\\session04-collections\\fap\\arraystudent\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D43C3EE-80F9-40C3-A728-36B1E54BCB9E}|ArrayStudent\\ArrayStudent.csproj|solutionrelative:arraystudent\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D43C3EE-80F9-40C3-A728-36B1E54BCB9E}|ArrayStudent\\ArrayStudent.csproj|d:\\code\\csharp-giao.lang-code\\prn212\\25.4.net1815\\session04-collections\\fap\\arraystudent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D43C3EE-80F9-40C3-A728-36B1E54BCB9E}|ArrayStudent\\ArrayStudent.csproj|solutionrelative:arraystudent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D43C3EE-80F9-40C3-A728-36B1E54BCB9E}|ArrayStudent\\ArrayStudent.csproj|d:\\code\\csharp-giao.lang-code\\prn212\\25.4.net1815\\session04-collections\\fap\\arraystudent\\arraystudent.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5D43C3EE-80F9-40C3-A728-36B1E54BCB9E}|ArrayStudent\\ArrayStudent.csproj|solutionrelative:arraystudent\\arraystudent.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2F5DC1B-B7BA-4F53-978A-DAF554CF2655}|ArrayBasic\\ArrayBasic.csproj|d:\\code\\csharp-giao.lang-code\\prn212\\25.4.net1815\\session04-collections\\fap\\arraybasic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2F5DC1B-B7BA-4F53-978A-DAF554CF2655}|ArrayBasic\\ArrayBasic.csproj|solutionrelative:arraybasic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Code\\csharp-giao.lang-code\\PRN212\\25.4.NET1815\\Session04-Collections\\FAP\\ArrayStudent\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "ArrayStudent\\Entities\\Student.cs",
+              "ToolTip": "D:\\Code\\csharp-giao.lang-code\\PRN212\\25.4.NET1815\\Session04-Collections\\FAP\\ArrayStudent\\Entities\\Student.cs",
+              "RelativeToolTip": "ArrayStudent\\Entities\\Student.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAA6wCAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T10:11:23.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\csharp-giao.lang-code\\PRN212\\25.4.NET1815\\Session04-Collections\\FAP\\ArrayStudent\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayStudent\\Program.cs",
+              "ToolTip": "D:\\Code\\csharp-giao.lang-code\\PRN212\\25.4.NET1815\\Session04-Collections\\FAP\\ArrayStudent\\Program.cs",
+              "RelativeToolTip": "ArrayStudent\\Program.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAAAEAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T10:10:42.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArrayStudent.csproj",
+              "DocumentMoniker": "D:\\Code\\csharp-giao.lang-code\\PRN212\\25.4.NET1815\\Session04-Collections\\FAP\\ArrayStudent\\ArrayStudent.csproj",
+              "RelativeDocumentMoniker": "ArrayStudent\\ArrayStudent.csproj",
+              "ToolTip": "D:\\Code\\csharp-giao.lang-code\\PRN212\\25.4.NET1815\\Session04-Collections\\FAP\\ArrayStudent\\ArrayStudent.csproj",
+              "RelativeToolTip": "ArrayStudent\\ArrayStudent.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-03T10:50:54.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\csharp-giao.lang-code\\PRN212\\25.4.NET1815\\Session04-Collections\\FAP\\ArrayBasic\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayBasic\\Program.cs",
+              "ToolTip": "D:\\Code\\csharp-giao.lang-code\\PRN212\\25.4.NET1815\\Session04-Collections\\FAP\\ArrayBasic\\Program.cs",
+              "RelativeToolTip": "ArrayBasic\\Program.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAowGsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:48:12.066Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

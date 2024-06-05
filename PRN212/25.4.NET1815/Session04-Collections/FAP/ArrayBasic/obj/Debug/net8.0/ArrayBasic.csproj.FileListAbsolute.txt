@@ -1,0 +1,15 @@
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session04-Collections\FAP\ArrayBasic\bin\Debug\net8.0\ArrayBasic.exe
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session04-Collections\FAP\ArrayBasic\bin\Debug\net8.0\ArrayBasic.deps.json
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session04-Collections\FAP\ArrayBasic\bin\Debug\net8.0\ArrayBasic.runtimeconfig.json
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session04-Collections\FAP\ArrayBasic\bin\Debug\net8.0\ArrayBasic.dll
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session04-Collections\FAP\ArrayBasic\bin\Debug\net8.0\ArrayBasic.pdb
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session04-Collections\FAP\ArrayBasic\obj\Debug\net8.0\ArrayBasic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session04-Collections\FAP\ArrayBasic\obj\Debug\net8.0\ArrayBasic.AssemblyInfoInputs.cache
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session04-Collections\FAP\ArrayBasic\obj\Debug\net8.0\ArrayBasic.AssemblyInfo.cs
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session04-Collections\FAP\ArrayBasic\obj\Debug\net8.0\ArrayBasic.csproj.CoreCompileInputs.cache
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session04-Collections\FAP\ArrayBasic\obj\Debug\net8.0\ArrayBasic.sourcelink.json
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session04-Collections\FAP\ArrayBasic\obj\Debug\net8.0\ArrayBasic.dll
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session04-Collections\FAP\ArrayBasic\obj\Debug\net8.0\refint\ArrayBasic.dll
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session04-Collections\FAP\ArrayBasic\obj\Debug\net8.0\ArrayBasic.pdb
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session04-Collections\FAP\ArrayBasic\obj\Debug\net8.0\ArrayBasic.genruntimeconfig.cache
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session04-Collections\FAP\ArrayBasic\obj\Debug\net8.0\ref\ArrayBasic.dll

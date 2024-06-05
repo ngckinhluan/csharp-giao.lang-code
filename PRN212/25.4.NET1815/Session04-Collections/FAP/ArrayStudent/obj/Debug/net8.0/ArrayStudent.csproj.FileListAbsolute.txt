@@ -1,0 +1,15 @@
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session04-Collections\FAP\ArrayStudent\bin\Debug\net8.0\ArrayStudent.exe
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session04-Collections\FAP\ArrayStudent\bin\Debug\net8.0\ArrayStudent.deps.json
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session04-Collections\FAP\ArrayStudent\bin\Debug\net8.0\ArrayStudent.runtimeconfig.json
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session04-Collections\FAP\ArrayStudent\bin\Debug\net8.0\ArrayStudent.dll
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session04-Collections\FAP\ArrayStudent\bin\Debug\net8.0\ArrayStudent.pdb
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session04-Collections\FAP\ArrayStudent\obj\Debug\net8.0\ArrayStudent.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session04-Collections\FAP\ArrayStudent\obj\Debug\net8.0\ArrayStudent.AssemblyInfoInputs.cache
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session04-Collections\FAP\ArrayStudent\obj\Debug\net8.0\ArrayStudent.AssemblyInfo.cs
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session04-Collections\FAP\ArrayStudent\obj\Debug\net8.0\ArrayStudent.csproj.CoreCompileInputs.cache
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session04-Collections\FAP\ArrayStudent\obj\Debug\net8.0\ArrayStudent.sourcelink.json
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session04-Collections\FAP\ArrayStudent\obj\Debug\net8.0\ArrayStudent.dll
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session04-Collections\FAP\ArrayStudent\obj\Debug\net8.0\refint\ArrayStudent.dll
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session04-Collections\FAP\ArrayStudent\obj\Debug\net8.0\ArrayStudent.pdb
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session04-Collections\FAP\ArrayStudent\obj\Debug\net8.0\ArrayStudent.genruntimeconfig.cache
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session04-Collections\FAP\ArrayStudent\obj\Debug\net8.0\ref\ArrayStudent.dll

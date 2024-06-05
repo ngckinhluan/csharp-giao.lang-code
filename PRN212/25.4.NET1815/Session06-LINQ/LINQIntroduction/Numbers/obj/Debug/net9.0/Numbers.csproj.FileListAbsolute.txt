@@ -1,0 +1,15 @@
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session06-LINQ\LINQIntroduction\Numbers\bin\Debug\net9.0\Numbers.exe
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session06-LINQ\LINQIntroduction\Numbers\bin\Debug\net9.0\Numbers.deps.json
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session06-LINQ\LINQIntroduction\Numbers\bin\Debug\net9.0\Numbers.runtimeconfig.json
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session06-LINQ\LINQIntroduction\Numbers\bin\Debug\net9.0\Numbers.dll
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session06-LINQ\LINQIntroduction\Numbers\bin\Debug\net9.0\Numbers.pdb
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session06-LINQ\LINQIntroduction\Numbers\obj\Debug\net9.0\Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session06-LINQ\LINQIntroduction\Numbers\obj\Debug\net9.0\Numbers.AssemblyInfoInputs.cache
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session06-LINQ\LINQIntroduction\Numbers\obj\Debug\net9.0\Numbers.AssemblyInfo.cs
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session06-LINQ\LINQIntroduction\Numbers\obj\Debug\net9.0\Numbers.csproj.CoreCompileInputs.cache
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session06-LINQ\LINQIntroduction\Numbers\obj\Debug\net9.0\Numbers.sourcelink.json
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session06-LINQ\LINQIntroduction\Numbers\obj\Debug\net9.0\Numbers.dll
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session06-LINQ\LINQIntroduction\Numbers\obj\Debug\net9.0\refint\Numbers.dll
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session06-LINQ\LINQIntroduction\Numbers\obj\Debug\net9.0\Numbers.pdb
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session06-LINQ\LINQIntroduction\Numbers\obj\Debug\net9.0\Numbers.genruntimeconfig.cache
+D:\Code\csharp-giao.lang-code\PRN212\25.4.NET1815\Session06-LINQ\LINQIntroduction\Numbers\obj\Debug\net9.0\ref\Numbers.dll
